@@ -1,10 +1,9 @@
-# Responsible AI - Classification Model Analysis
+# Classification Model Analysis
 
 ## Task Overview
-This project focuses on understanding and applying Responsible AI principles in decision-making processes. The goal is to build and analyze a classification model that predicts customer subscription to a term deposit based on marketing interactions.
+This project focuses on understanding and applying AI principles in decision-making processes. The goal is to build and analyze a classification model that predicts customer subscription to a term deposit based on marketing interactions.
 
 ## Learnings
-- The importance of Responsible AI in decision-making.
 - How to build a classification model using Python.
 - Techniques for analyzing feature importance in a classification model.
 - Methods to visualize and interpret model predictions.
@@ -69,5 +68,5 @@ pip install pandas numpy scikit-learn seaborn matplotlib
 4. Visualize and interpret results.
 
 ## Conclusion
-This project highlights the importance of Responsible AI in financial decision-making. By improving explainability, businesses can make more informed, ethical, and defensible AI-driven decisions.
+This project highlights the importance of AI in financial decision-making. By improving explainability, businesses can make more informed, ethical, and defensible AI-driven decisions.
 
